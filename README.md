@@ -8,7 +8,7 @@
   <img src="./sakura-banner.svg" alt="Popa Oana" width="100%">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FF8FAB&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Oana+%F0%9F%8C%B8;Python+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Machine+Learning;Growing+one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FF8FAB&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Oana+%F0%9F%8C%B8;Python+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Machine+Learning;Growing+one+commit+at+a+time" alt="Typing SVG" />
 
 <br>
 
