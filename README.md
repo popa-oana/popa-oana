@@ -82,7 +82,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=popa-oana&bg_color=00000000&color=FF8FAB&line=FFB7C5&point=E75480&area=true&area_color=FFB7C5&hide_border=true&title_color=FF8FAB" alt="Contribution graph" />
+
 
 </div>
 
