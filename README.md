@@ -16,18 +16,17 @@
 
 ---
 
-## 🌸 About me
+## About me
 
 ```text
-🌸 Hi, I'm Oana, nice to meet you!
-🌱 Currently learning: machine learning, parallel & distributed computing, 3D graphics
-💻 Building: hackathon projects, university projects, and things I'm curious about
-🍵 Fun fact: add something about yourself here!
+ Hi, I'm Oana, nice to meet you!
+ Currently learning: machine learning, parallel & distributed computing, 3D graphics
+ Building: hackathon projects, university projects, and things I'm curious about
 ```
 
 <br>
 
-## 🌷 Tech garden
+## Tech garden
 
 <div align="center">
 
@@ -46,31 +45,31 @@
 
 <br>
 
-## 🌸 Projects
+## Projects
 
 <div align="center">
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [🌍 **TerraCycle IEEE ClimateChain Hackathon**](https://github.com/popa-oana/TerraCycle-IEEE-ClimateChain-Hackathon) | Hackathon project with a FastAPI backend and a satellite-imagery (NDVI) machine learning verifier for land parcels | ![Python](https://img.shields.io/badge/-Python-FFB7C5?style=flat-square&logo=python&logoColor=5C2A3A) ![FastAPI](https://img.shields.io/badge/-FastAPI-FF8FAB?style=flat-square&logo=fastapi&logoColor=white) |
+| [**TerraCycle IEEE ClimateChain Hackathon**](https://github.com/popa-oana/TerraCycle-IEEE-ClimateChain-Hackathon) | Hackathon project with a FastAPI backend and a satellite-imagery (NDVI) machine learning verifier for land parcels | ![Python](https://img.shields.io/badge/-Python-FFB7C5?style=flat-square&logo=python&logoColor=5C2A3A) ![FastAPI](https://img.shields.io/badge/-FastAPI-FF8FAB?style=flat-square&logo=fastapi&logoColor=white) |
 | [🏙️ **Proiect SPG**](https://github.com/popa-oana/Proiect-SPG) | Interactive 3D world simulation that runs in the browser: procedural terrain, dynamic lighting, collision detection and autonomous AI entities | ![Three.js](https://img.shields.io/badge/-Three.js-FFB7C5?style=flat-square&logo=threedotjs&logoColor=5C2A3A) ![HTML5](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat-square&logo=html5&logoColor=5C2A3A) |
-| [🩺 **Proiect Invatare Automata**](https://github.com/popa-oana/Proiect_Invatare_Automata) | Diabetes risk prediction: medical data preprocessing, Logistic Regression, Random Forest and Gradient Boosting, with performance evaluation and probability calibration | ![Jupyter](https://img.shields.io/badge/-Jupyter-E75480?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFB7C5?style=flat-square&logo=python&logoColor=5C2A3A) |
-| [⚙️ **Proiect APD**](https://github.com/popa-oana/Proiect-APD) | Parallel and distributed algorithms: Selection Sort implemented in Java, Java Threads and Java MPI | ![Java](https://img.shields.io/badge/-Java-FF8FAB?style=flat-square&logo=openjdk&logoColor=white) |
-| [🧱 **Tetris**](https://github.com/popa-oana/Tetris) | My take on the classic Tetris game | ![Java](https://img.shields.io/badge/-Java-FF8FAB?style=flat-square&logo=openjdk&logoColor=white) |
-| [🎓 **Popa Oana Proiect III**](https://github.com/popa-oana/Popa_Oana_Proiect_III) | University Project III: C# implementation with preliminary, intermediate and final reports | ![C#](https://img.shields.io/badge/-C%23-E75480?style=flat-square&logo=csharp&logoColor=white) |
-| [🔌 **Popa Oana PIC24**](https://github.com/popa-oana/Popa_Oana_PIC24) | PIC24 microcontroller coursework | ![Embedded](https://img.shields.io/badge/-PIC24-FFD1DC?style=flat-square&logoColor=5C2A3A) |
-| [📝 **Tema7 CE**](https://github.com/popa-oana/Tema7_CE_Popa_Oana) | Assignment 7 for the CE course | ![HTML5](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat-square&logo=html5&logoColor=5C2A3A) |
-| [📚 **HA CR2.3A**](https://github.com/popa-oana/HA_CR2.3A_popa_oana_maria) | Coursework repository (group CR2.3A) | ![Coursework](https://img.shields.io/badge/-Coursework-FFD1DC?style=flat-square&logoColor=5C2A3A) |
+| [**Proiect Invatare Automata**](https://github.com/popa-oana/Proiect_Invatare_Automata) | Diabetes risk prediction: medical data preprocessing, Logistic Regression, Random Forest and Gradient Boosting, with performance evaluation and probability calibration | ![Jupyter](https://img.shields.io/badge/-Jupyter-E75480?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFB7C5?style=flat-square&logo=python&logoColor=5C2A3A) |
+| [**Proiect APD**](https://github.com/popa-oana/Proiect-APD) | Parallel and distributed algorithms: Selection Sort implemented in Java, Java Threads and Java MPI | ![Java](https://img.shields.io/badge/-Java-FF8FAB?style=flat-square&logo=openjdk&logoColor=white) |
+| [**Tetris**](https://github.com/popa-oana/Tetris) | My take on the classic Tetris game | ![Java](https://img.shields.io/badge/-Java-FF8FAB?style=flat-square&logo=openjdk&logoColor=white) |
+| [**Popa Oana Proiect III**](https://github.com/popa-oana/Popa_Oana_Proiect_III) | University Project III: C# implementation with preliminary, intermediate and final reports | ![C#](https://img.shields.io/badge/-C%23-E75480?style=flat-square&logo=csharp&logoColor=white) |
+| [**Popa Oana PIC24**](https://github.com/popa-oana/Popa_Oana_PIC24) | PIC24 microcontroller coursework | ![Embedded](https://img.shields.io/badge/-PIC24-FFD1DC?style=flat-square&logoColor=5C2A3A) |
+| [**Tema7 CE**](https://github.com/popa-oana/Tema7_CE_Popa_Oana) | Assignment 7 for the CE course | ![HTML5](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat-square&logo=html5&logoColor=5C2A3A) |
+| [**HA CR2.3A**](https://github.com/popa-oana/HA_CR2.3A_popa_oana_maria) | Coursework repository (group CR2.3A) | ![Coursework](https://img.shields.io/badge/-Coursework-FFD1DC?style=flat-square&logoColor=5C2A3A) |
 
 <br>
 
-[🌸 Browse all my repositories](https://github.com/popa-oana?tab=repositories)
+[Browse all my repositories](https://github.com/popa-oana?tab=repositories)
 
 </div>
 
 <br>
 
-## 🌸 My contributions
+## My contributions
 
 <div align="center">
 
@@ -89,7 +88,7 @@
 
 <br>
 
-## 🐍 Snake eating my petals
+## Snake eating my petals
 
 <div align="center">
 
@@ -103,7 +102,7 @@
 
 <br>
 
-## 🌸 Let's connect
+## Let's connect
 
 <div align="center">
 
