@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Oana Maria Popa — Software Engineering and Creative Computing">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202436"/><stop offset="0.58" stop-color="#33293f"/><stop offset="1" stop-color="#67364e"/></linearGradient>
+ <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop stop-color="#b66b91" stop-opacity=".42"/><stop offset="1" stop-color="#b66b91" stop-opacity="0"/></radialGradient>
+ <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edd7e4"/><stop offset=".55" stop-color="#d58dae"/><stop offset="1" stop-color="#9a759e"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="#f5d2e2" opacity=".13"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="350" rx="23"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="350" fill="url(#bg)"/>
+ <rect width="1200" height="350" fill="url(#dots)"/>
+ <circle cx="1030" cy="165" r="270" fill="url(#glow)"/>
+ <path d="M0 310 Q340 245 620 295 T1200 260" fill="none" stroke="#c78aa9" stroke-width="1.2" opacity=".25"/>
+ <path d="M0 328 Q300 270 655 322 T1200 300" fill="none" stroke="#f8cedf" stroke-width="1" opacity=".14"/>
+ <g stroke="#f6c5da" stroke-opacity=".16" fill="none">
+  <path d="M793 0v350M840 0v350M887 0v350M934 0v350M981 0v350M1028 0v350M1075 0v350M1122 0v350"/>
+  <path d="M780 44h420M780 91h420M780 138h420M780 185h420M780 232h420M780 279h420"/>
+ </g>
+ <text x="82" y="66" font-family="Inter,Arial,sans-serif" font-size="15" fill="#E3B4C9" letter-spacing="4" font-weight="600">SOFTWARE ENGINEERING  /  CREATIVE COMPUTING</text>
+ <path d="M82 87 H580" stroke="#C78AA9" stroke-width="1.1" opacity=".55"/>
+ <text x="77" y="174" font-family="Georgia,'Noto Serif',serif" font-size="78" fill="#FFF6F8" letter-spacing="-2" font-weight="bold">Oana Maria Popa</text>
+ <text x="83" y="218" font-family="Inter,Arial,sans-serif" font-size="19" fill="#E7C9D8">Building thoughtful software, one project at a time.</text>
+ <text x="83" y="291" font-family="Inter,Arial,sans-serif" font-size="14" fill="#D9AFC5" letter-spacing="2">FULL-STACK  ·  MACHINE LEARNING  ·  3D &amp; GEO</text>
+ <g transform="translate(994 173)">
+  <circle r="134" fill="none" stroke="#cf9db8" opacity=".17" stroke-width="1.4"/>
+  <circle r="101" fill="none" stroke="url(#orbit)" opacity=".75" stroke-width="1.4"/>
+  <circle r="69" fill="none" stroke="#E6B6CD" opacity=".5" stroke-width="1.2"/>
+  <ellipse rx="136" ry="49" transform="rotate(-28)" fill="none" stroke="#F4C2D7" stroke-opacity=".6" stroke-width="1.4"/>
+  <ellipse rx="91" ry="127" transform="rotate(31)" fill="none" stroke="#BD82AA" stroke-opacity=".4" stroke-width="1.2"/>
+  <path d="M-38 -52 Q-3 -77 35 -55 Q80 -24 66 22 Q53 62 8 66 Q-44 69 -67 26 Q-83 -5 -38 -52Z" fill="#DEA9C8" fill-opacity=".10" stroke="#E7B9CD" stroke-width="1.7"/>
+  <path d="M-61 -6 Q-26 -16 -18 -42 M-37 45 Q0 21 49 44 M10 -62 Q4 -19 24 28" fill="none" stroke="#E8C1D4" opacity=".45" stroke-width="1"/>
+  <path d="M-67 5h137M0-71v141" stroke="#E8C1D4" opacity=".2" stroke-width="1"/>
+  <circle cx="111" cy="-78" r="5" fill="#F3B2CC"/>
+  <circle cx="-112" cy="75" r="4.5" fill="#E8C3DC"/>
+  <circle cx="40" cy="70" r="5" fill="#F3B2CC"/>
+  <circle cx="-6" cy="-70" r="3" fill="#FFF2F6"/>
+  <circle r="10" fill="#F7D8E5"/>
+  <circle r="4" fill="#8B537F"/>
+ </g>
+ <!-- restrained blossom motif: five geometric petals around a center -->
+ <g transform="translate(762 102)" opacity=".85"><g fill="#E9AFC8">
+  <ellipse cx="0" cy="-12" rx="6" ry="12"/><ellipse cx="11.4" cy="-3.7" rx="6" ry="12" transform="rotate(72 11.4 -3.7)"/><ellipse cx="7" cy="9.7" rx="6" ry="12" transform="rotate(144 7 9.7)"/><ellipse cx="-7" cy="9.7" rx="6" ry="12" transform="rotate(216 -7 9.7)"/><ellipse cx="-11.4" cy="-3.7" rx="6" ry="12" transform="rotate(288 -11.4 -3.7)"/></g><circle r="3.5" fill="#FFF3DD"/></g>
+ <path d="M718 170q11-7 14 5q-14 8-14-5zM752 235q14-8 17 6q-15 8-17-6zM1144 68q12-5 12 6q-12 5-12-6z" fill="#D999B5" opacity=".55"/>
+ <rect x="1.2" y="1.2" width="1197.6" height="347.6" rx="22" fill="none" stroke="#BD88A7" stroke-opacity=".5" stroke-width="2"/>
+</g></svg>
