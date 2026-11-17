@@ -54,7 +54,7 @@ Contributed to frontend development for a regenerative agriculture verification 
 
 | Project | Focus |
 | --- | --- |
-| [**Medical Management Web Application**](https://github.com/popa-oana/Aplicatie_medicala) · Bachelor's thesis | Full-stack healthcare workflows, PostgreSQL, Django, and AI-assisted Text-to-SQL with Ollama |
+| [**Medical Management Web Application**](https://github.com/popa-oana/Aplicatie_medicala) | Full-stack healthcare workflows, PostgreSQL, Django, and AI-assisted Text-to-SQL with Ollama |
 | [**SecureEmployeeAPI**](https://github.com/popa-oana/SecureEmployeeAPI) | FastAPI, JWT-based authentication, permissions, audit logging, and automated tests |
 | [**Diabetes Prediction**](https://github.com/popa-oana/Proiect_Invatare_Automata) | End-to-end ML workflow, model evaluation, and SHAP explainability |
 | [**Interactive 3D Graphics**](https://github.com/popa-oana/Proiect-SPG) | Three.js environment, lighting, terrain, animation, and collision handling |
