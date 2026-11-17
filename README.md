@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Computer Engineering graduate · Software Engineering master's student</strong><br />
-  Full-stack development · Machine learning · Computer graphics · Embedded systems
+  Full-Stack Development · Software Engineering · Embedded Systems
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Currently exploring opportunities in **software engineering** at the internship 
 ### Selected work
 
 <a href="https://github.com/xD0ri4nx/Dancing-with-StARs-">
-  <img src="./assets/projects/nasa-card.svg" alt="Dancing with the SARs — NISAR change detection and geospatial visualization" width="100%" />
+  <img src="./assets/projects/nasa-card-animated.gif" alt="Dancing with the SARs — NISAR change detection and geospatial visualization" width="100%" />
 </a>
 
 **Dancing with the SARs** · NASA Space Apps Challenge 2026 · **3rd Place, Craiova Local Event**
@@ -36,7 +36,7 @@ Contributed to a team-built platform for analyzing Earth surface changes with NI
 `Python` `FastAPI` `Rust` `React` `TypeScript` `CesiumJS` `ONNX Runtime`
 
 <a href="https://github.com/corinabataiosu/GateWatch">
-  <img src="./assets/projects/gatewatch-card.svg" alt="GateWatch — cybersecurity monitoring and interactive 3D airport" width="100%" />
+  <img src="./assets/projects/gatewatch-card-animated.gif" alt="GateWatch — cybersecurity monitoring and interactive 3D airport" width="100%" />
 </a>
 
 **GateWatch** · Craiova Hackathon V2.0
@@ -46,7 +46,7 @@ Contributed to the frontend of an airport cybersecurity monitoring platform, wit
 `React` `TypeScript` `Vite` `Three.js` `WebGL`
 
 <a href="https://github.com/popa-oana/TerraCycle-IEEE-ClimateChain-Hackathon">
-  <img src="./assets/projects/terracycle-card.svg" alt="TerraCycle — regenerative agriculture verification" width="100%" />
+  <img src="./assets/projects/terracycle-card-animated.gif" alt="TerraCycle — regenerative agriculture verification" width="100%" />
 </a>
 
 **TerraCycle** · IEEE ClimateChain Hackathon
