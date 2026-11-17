@@ -1,27 +1,22 @@
 <p align="center">
-  <img src="./assets/banners/profile-banner-animated.gif" alt="Oana Maria Popa — software engineering and embedded systems" width="100%" />
+  <img src="./assets/banners/profile-banner-animated.gif" alt="Oana Maria Popa — developer portfolio" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Computer Engineering graduate · Software Engineering master's student</strong><br />
-  Full-Stack Development · Software Engineering · Embedded Systems
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oana-maria-popa/"><img src="https://img.shields.io/badge/LinkedIn-69314C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:oanapopa286@gmail.com"><img src="https://img.shields.io/badge/Email-9D4F70?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/popa-oana?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20263B?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/oana-maria-popa/"><img src="https://img.shields.io/badge/LinkedIn-69314C?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:oanapopa286@gmail.com"><img src="https://img.shields.io/badge/Email-9D4F70?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/popa-oana?tab=repositories"><img src="https://img.shields.io/badge/Repositories-69314C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
 </p>
 
 ---
 
 ### A little about me
 
-I'm Oana, a **Software Engineering master's student at the University of Craiova**. I enjoy building applications that connect thoughtful interfaces with the systems behind them — from secure APIs and database-driven platforms to machine learning and interactive 3D experiences.
+I'm Oana, a **Computer Engineering graduate** currently pursuing a **Master's degree in Software Engineering at the University of Craiova**. I enjoy building applications that connect thoughtful interfaces with the systems behind them — from secure APIs and database-driven platforms to machine learning and interactive 3D experiences.
 
-My work spans individual academic projects and team-based hackathons. I'm especially interested in **full-stack software development, machine learning, computer graphics, and embedded systems**.
+My work spans individual academic projects and team-based hackathons. I'm especially interested in **full-stack software development and embedded systems**, and I enjoy exploring different areas of software engineering.
 
-Currently exploring opportunities in **software engineering** at the internship or junior level.
+Currently exploring **software engineering internship and junior opportunities**.
 
 ### Selected work
 
@@ -33,7 +28,7 @@ Currently exploring opportunities in **software engineering** at the internship 
 
 Contributed to a team-built platform for analyzing Earth surface changes with NISAR satellite radar data. Worked on SAR image processing, a Python/FastAPI inference service integrated with a Rust backend, and React/TypeScript geospatial visualization using CesiumJS.
 
-`Python` `FastAPI` `Rust` `React` `TypeScript` `CesiumJS` `ONNX Runtime`
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=69314C&amp;style=flat-square" alt="Python" />  <img src="https://img.shields.io/static/v1?label=&amp;message=FastAPI&amp;color=9D4F70&amp;style=flat-square" alt="FastAPI" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Rust&amp;color=69314C&amp;style=flat-square" alt="Rust" />  <img src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=9D4F70&amp;style=flat-square" alt="React" />  <img src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=69314C&amp;style=flat-square" alt="TypeScript" />  <img src="https://img.shields.io/static/v1?label=&amp;message=CesiumJS&amp;color=9D4F70&amp;style=flat-square" alt="CesiumJS" />  <img src="https://img.shields.io/static/v1?label=&amp;message=ONNX+Runtime&amp;color=69314C&amp;style=flat-square" alt="ONNX Runtime" /></p>
 
 <a href="https://github.com/corinabataiosu/GateWatch">
   <img src="./assets/projects/gatewatch-card-animated.gif" alt="GateWatch — cybersecurity monitoring and interactive 3D airport" width="100%" />
@@ -43,7 +38,7 @@ Contributed to a team-built platform for analyzing Earth surface changes with NI
 
 Contributed to the frontend of an airport cybersecurity monitoring platform, with camera status views, security incident interfaces, and an interactive 3D airport environment for visualizing infrastructure and simulated activity.
 
-`React` `TypeScript` `Vite` `Three.js` `WebGL`
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=69314C&amp;style=flat-square" alt="React" />  <img src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=9D4F70&amp;style=flat-square" alt="TypeScript" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Vite&amp;color=69314C&amp;style=flat-square" alt="Vite" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Three.js&amp;color=9D4F70&amp;style=flat-square" alt="Three.js" />  <img src="https://img.shields.io/static/v1?label=&amp;message=WebGL&amp;color=69314C&amp;style=flat-square" alt="WebGL" /></p>
 
 <a href="https://github.com/popa-oana/TerraCycle-IEEE-ClimateChain-Hackathon">
   <img src="./assets/projects/terracycle-card-animated.gif" alt="TerraCycle — regenerative agriculture verification" width="100%" />
@@ -53,7 +48,7 @@ Contributed to the frontend of an airport cybersecurity monitoring platform, wit
 
 Contributed to frontend development for a regenerative agriculture verification platform. Built reusable UI components, responsive layouts, design tokens, and a multi-step workflow interface within a team project involving satellite data and blockchain concepts.
 
-`React` `TypeScript` `Vite` `Tailwind CSS`
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=69314C&amp;style=flat-square" alt="React" />  <img src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=9D4F70&amp;style=flat-square" alt="TypeScript" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Vite&amp;color=69314C&amp;style=flat-square" alt="Vite" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Tailwind+CSS&amp;color=9D4F70&amp;style=flat-square" alt="Tailwind CSS" /></p>
 
 ### More things I've built
 
@@ -67,17 +62,21 @@ Contributed to frontend development for a regenerative agriculture verification 
 
 ### The tools I work with
 
-**Languages**  
-`Python` · `Java` · `C/C++` · `C#` · `JavaScript` · `TypeScript` · `SQL` · `VHDL`
+**Languages**
 
-**Web & backend**  
-`React` · `Django` · `FastAPI` · `ASP.NET Core` · `Spring Boot` · `REST APIs` · `Tailwind CSS`
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=69314C&amp;style=flat-square" alt="Python" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Java&amp;color=9D4F70&amp;style=flat-square" alt="Java" />  <img src="https://img.shields.io/static/v1?label=&amp;message=C%2FC%2B%2B&amp;color=69314C&amp;style=flat-square" alt="C/C++" />  <img src="https://img.shields.io/static/v1?label=&amp;message=C%23&amp;color=9D4F70&amp;style=flat-square" alt="C#" />  <img src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=69314C&amp;style=flat-square" alt="JavaScript" />  <img src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=9D4F70&amp;style=flat-square" alt="TypeScript" />  <img src="https://img.shields.io/static/v1?label=&amp;message=SQL&amp;color=69314C&amp;style=flat-square" alt="SQL" />  <img src="https://img.shields.io/static/v1?label=&amp;message=VHDL&amp;color=9D4F70&amp;style=flat-square" alt="VHDL" /></p>
 
-**Data, ML & visual computing**  
-`PostgreSQL` · `SQL Server` · `scikit-learn` · `pandas` · `NumPy` · `Three.js` · `CesiumJS` · `WebGL`
+**Web & backend**
 
-**Engineering workflow**  
-`Git/GitHub` · `pytest` · `Swagger UI` · `Google Colab` · `Ollama` · `Vite`
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=9D4F70&amp;style=flat-square" alt="React" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Django&amp;color=69314C&amp;style=flat-square" alt="Django" />  <img src="https://img.shields.io/static/v1?label=&amp;message=FastAPI&amp;color=9D4F70&amp;style=flat-square" alt="FastAPI" />  <img src="https://img.shields.io/static/v1?label=&amp;message=ASP.NET+Core&amp;color=69314C&amp;style=flat-square" alt="ASP.NET Core" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Spring+Boot&amp;color=9D4F70&amp;style=flat-square" alt="Spring Boot" />  <img src="https://img.shields.io/static/v1?label=&amp;message=REST+APIs&amp;color=69314C&amp;style=flat-square" alt="REST APIs" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Tailwind+CSS&amp;color=9D4F70&amp;style=flat-square" alt="Tailwind CSS" /></p>
+
+**Data, ML & visual computing**
+
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=PostgreSQL&amp;color=69314C&amp;style=flat-square" alt="PostgreSQL" />  <img src="https://img.shields.io/static/v1?label=&amp;message=SQL+Server&amp;color=9D4F70&amp;style=flat-square" alt="SQL Server" />  <img src="https://img.shields.io/static/v1?label=&amp;message=scikit-learn&amp;color=69314C&amp;style=flat-square" alt="scikit-learn" />  <img src="https://img.shields.io/static/v1?label=&amp;message=pandas&amp;color=9D4F70&amp;style=flat-square" alt="pandas" />  <img src="https://img.shields.io/static/v1?label=&amp;message=NumPy&amp;color=69314C&amp;style=flat-square" alt="NumPy" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Three.js&amp;color=9D4F70&amp;style=flat-square" alt="Three.js" />  <img src="https://img.shields.io/static/v1?label=&amp;message=CesiumJS&amp;color=69314C&amp;style=flat-square" alt="CesiumJS" />  <img src="https://img.shields.io/static/v1?label=&amp;message=WebGL&amp;color=9D4F70&amp;style=flat-square" alt="WebGL" /></p>
+
+**Engineering workflow**
+
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=Git%2FGitHub&amp;color=9D4F70&amp;style=flat-square" alt="Git/GitHub" />  <img src="https://img.shields.io/static/v1?label=&amp;message=pytest&amp;color=69314C&amp;style=flat-square" alt="pytest" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Swagger+UI&amp;color=9D4F70&amp;style=flat-square" alt="Swagger UI" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Google+Colab&amp;color=69314C&amp;style=flat-square" alt="Google Colab" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Ollama&amp;color=9D4F70&amp;style=flat-square" alt="Ollama" />  <img src="https://img.shields.io/static/v1?label=&amp;message=Vite&amp;color=69314C&amp;style=flat-square" alt="Vite" /></p>
 
 ### A few milestones
 
